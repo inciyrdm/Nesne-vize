@@ -1,0 +1,14 @@
+C:\Users\EREN YARDIM\source\repos\YemekTarif\YemekTarif\bin\Debug\YemekTarif.exe.config
+C:\Users\EREN YARDIM\source\repos\YemekTarif\YemekTarif\bin\Debug\YemekTarif.exe
+C:\Users\EREN YARDIM\source\repos\YemekTarif\YemekTarif\bin\Debug\YemekTarif.pdb
+C:\Users\EREN YARDIM\source\repos\YemekTarif\YemekTarif\obj\Debug\YemekTarif.csproj.AssemblyReference.cache
+C:\Users\EREN YARDIM\source\repos\YemekTarif\YemekTarif\obj\Debug\YemekTarif.csproj.CoreCompileInputs.cache
+C:\Users\EREN YARDIM\source\repos\YemekTarif\YemekTarif\obj\Debug\YemekTarif.exe
+C:\Users\EREN YARDIM\source\repos\YemekTarif\YemekTarif\obj\Debug\YemekTarif.pdb
+C:\Users\inciy\Desktop\YemekTarif\YemekTarif\bin\Debug\YemekTarif.exe.config
+C:\Users\inciy\Desktop\YemekTarif\YemekTarif\bin\Debug\YemekTarif.exe
+C:\Users\inciy\Desktop\YemekTarif\YemekTarif\bin\Debug\YemekTarif.pdb
+C:\Users\inciy\Desktop\YemekTarif\YemekTarif\obj\Debug\YemekTarif.csprojAssemblyReference.cache
+C:\Users\inciy\Desktop\YemekTarif\YemekTarif\obj\Debug\YemekTarif.csproj.CoreCompileInputs.cache
+C:\Users\inciy\Desktop\YemekTarif\YemekTarif\obj\Debug\YemekTarif.exe
+C:\Users\inciy\Desktop\YemekTarif\YemekTarif\obj\Debug\YemekTarif.pdb
